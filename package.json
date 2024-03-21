@@ -4,7 +4,7 @@
     "build": "nitro build",
     "dev": "nitro dev --host",
     "prepare": "nitro prepare",
-    "preview": "node .output/server/index.mjs"
+    "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
     "nitropack": "latest"
